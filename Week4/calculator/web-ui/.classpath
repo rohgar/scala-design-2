@@ -1,0 +1,17 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry output="-Users-rohitvg-Documents-Workspace-EclipseProjects-Coursera-Scala-Design-Principles-Week4-calculator-src-main-scala-calculator" kind="src" path="-Users-rohitvg-Documents-Workspace-EclipseProjects-Coursera-Scala-Design-Principles-Week4-calculator-src-main-scala-calculator"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath="/Users/rohitvg/.ivy2/cache/org.scala-js/scalajs-library_2.11/srcs/scalajs-library_2.11-0.6.2-sources.jar" kind="lib" path="/Users/rohitvg/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/rohitvg/.ivy2/cache/org.scala-js/scalajs-library_2.11/docs/scalajs-library_2.11-0.6.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/rohitvg/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/srcs/scalajs-dom_sjs0.6_2.11-0.8.0-sources.jar" kind="lib" path="/Users/rohitvg/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/rohitvg/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/docs/scalajs-dom_sjs0.6_2.11-0.8.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
